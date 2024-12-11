@@ -9,6 +9,7 @@ Solución Implementada
 Para resolver este problema, desarrollé una aplicación web utilizando React. La aplicación permite procesar los archivos CSV, reducir la cantidad de datos seleccionando uno cada dos meses, y visualizar los resultados de manera más clara.
 Estructura del Proyecto
 El proyecto se organizó de la siguiente manera:
+
 csv-processor/
 ├── package.json
 ├── public/
